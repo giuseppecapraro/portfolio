@@ -72,9 +72,11 @@ body::-webkit-scrollbar {
   opacity: 1;
   color: white;
 }
-
 .showroom img {
   border-radius: 20px;
+}
+.dropdown-menu{
+  background-color: #e4e4e47d;
 }
 
 @media (max-width: 800px) {
